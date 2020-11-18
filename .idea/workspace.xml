@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eea74ab-9845-4d5f-9432-fb3985d043c9" name="Default Changelist" comment="Chapter 1, Pro MERN Stack. WebStorm IDE">
+    <list default="true" id="7eea74ab-9845-4d5f-9432-fb3985d043c9" name="Default Changelist" comment="Added Babel script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605674346149</updated>
-      <workItem from="1605674348698" duration="2980000" />
+      <workItem from="1605674348698" duration="3437000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1, Pro MERN Stack. WebStorm IDE">
       <created>1605676703062</created>
@@ -57,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605676703062</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Babel script">
+      <created>1605677401899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605677401899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,7 +72,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 1, Pro MERN Stack. WebStorm IDE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1, Pro MERN Stack. WebStorm IDE" />
+    <MESSAGE value="Added Babel script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Babel script" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1194" y="347" key="#Notifications" timestamp="1605675800934">
@@ -84,10 +92,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="916" y="188" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605676143587" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605676783437">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605677427332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605676783437" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605677427332" />
     <state x="1270" y="314" key="svn.repositoryBrowser" timestamp="1605676486366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
