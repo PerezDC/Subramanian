@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eea74ab-9845-4d5f-9432-fb3985d043c9" name="Default Changelist" comment="Removed createElement(). Added JSX in content div.">
+      <change afterPath="$PROJECT_DIR$/src/.babelrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <workItem from="1605764221304" duration="3040000" />
       <workItem from="1605767863460" duration="747000" />
       <workItem from="1605851070376" duration="1324000" />
-      <workItem from="1605852504139" duration="3052000" />
+      <workItem from="1605852504139" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1, Pro MERN Stack. WebStorm IDE">
       <created>1605676703062</created>
@@ -149,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605853053608</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Created App.js using npx, converting src directory contents">
+      <created>1605855694715</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605855694715</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +182,8 @@
     <MESSAGE value="Moved index into public directory. Added server.js to project." />
     <MESSAGE value="Edited package.json to start server directory scripts." />
     <MESSAGE value="Added App.jsx to hold JSX from Index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added App.jsx to hold JSX from Index.html" />
+    <MESSAGE value="Created App.js using npx, converting src directory contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created App.js using npx, converting src directory contents" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1194" y="347" key="#Notifications" timestamp="1605675800934">
@@ -193,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="916" y="188" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605676143587" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605853060532">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605855707670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605853060532" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605855707670" />
     <state x="1270" y="314" key="svn.repositoryBrowser" timestamp="1605676486366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
