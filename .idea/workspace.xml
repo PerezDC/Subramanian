@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eea74ab-9845-4d5f-9432-fb3985d043c9" name="Default Changelist" comment="Removed createElement(). Added JSX in content div.">
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +44,14 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,9 +64,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\davii\WebstormProjects\HelloWorld" />
-      <recent name="C:\Users\davii\WebstormProjects\HelloWorld\public" />
       <recent name="C:\Users\davii\WebstormProjects\HelloWorld\server" />
+      <recent name="C:\Users\davii\WebstormProjects\HelloWorld\public" />
+      <recent name="C:\Users\davii\WebstormProjects\HelloWorld" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +78,9 @@
       <option name="presentableId" value="Default" />
       <updated>1605674346149</updated>
       <workItem from="1605674348698" duration="4042000" />
-      <workItem from="1605764221304" duration="2328000" />
+      <workItem from="1605764221304" duration="3040000" />
+      <workItem from="1605767863460" duration="747000" />
+      <workItem from="1605851070376" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1, Pro MERN Stack. WebStorm IDE">
       <created>1605676703062</created>
@@ -98,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605677904271</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Moved index into public directory. Added server.js to project.">
+      <created>1605767250861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605767250861</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,12 +126,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 1, Pro MERN Stack. WebStorm IDE" />
     <MESSAGE value="Added Babel script" />
     <MESSAGE value="Removed createElement(). Added JSX in content div." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed createElement(). Added JSX in content div." />
+    <MESSAGE value="Moved index into public directory. Added server.js to project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved index into public directory. Added server.js to project." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1194" y="347" key="#Notifications" timestamp="1605675800934">
@@ -138,10 +152,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="916" y="188" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605676143587" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605677912689">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605767259810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605677912689" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605767259810" />
     <state x="1270" y="314" key="svn.repositoryBrowser" timestamp="1605676486366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
