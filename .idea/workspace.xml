@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eea74ab-9845-4d5f-9432-fb3985d043c9" name="Default Changelist" comment="Removed createElement(). Added JSX in content div.">
+      <change afterPath="$PROJECT_DIR$/public/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,19 @@
       <recent name="C:\Users\davii\WebstormProjects\HelloWorld" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,7 +93,8 @@
       <workItem from="1605674348698" duration="4042000" />
       <workItem from="1605764221304" duration="3040000" />
       <workItem from="1605767863460" duration="747000" />
-      <workItem from="1605851070376" duration="965000" />
+      <workItem from="1605851070376" duration="1324000" />
+      <workItem from="1605852504139" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1, Pro MERN Stack. WebStorm IDE">
       <created>1605676703062</created>
@@ -117,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605851240530</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Edited package.json to start server directory scripts.">
+      <created>1605852094593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605852094593</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,10 +181,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="916" y="188" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605676143587" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605851243466">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605852098692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605851243466" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605852098692" />
     <state x="1270" y="314" key="svn.repositoryBrowser" timestamp="1605676486366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
