@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7eea74ab-9845-4d5f-9432-fb3985d043c9" name="Default Changelist" comment="Removed createElement(). Added JSX in content div.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <workItem from="1605674348698" duration="4042000" />
       <workItem from="1605764221304" duration="3040000" />
       <workItem from="1605767863460" duration="747000" />
-      <workItem from="1605851070376" duration="48000" />
+      <workItem from="1605851070376" duration="965000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1, Pro MERN Stack. WebStorm IDE">
       <created>1605676703062</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605767250861</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Edited package.json to start server directory scripts.">
+      <created>1605851240530</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605851240530</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +140,8 @@
     <MESSAGE value="Added Babel script" />
     <MESSAGE value="Removed createElement(). Added JSX in content div." />
     <MESSAGE value="Moved index into public directory. Added server.js to project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved index into public directory. Added server.js to project." />
+    <MESSAGE value="Edited package.json to start server directory scripts." />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited package.json to start server directory scripts." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1194" y="347" key="#Notifications" timestamp="1605675800934">
@@ -152,10 +160,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="916" y="188" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605676143587" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605767259810">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605851243466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605767259810" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605851243466" />
     <state x="1270" y="314" key="svn.repositoryBrowser" timestamp="1605676486366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
